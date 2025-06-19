@@ -387,7 +387,7 @@
 </head>
 <body>
   <header>
-    <h1>AI-Powered Real-Time Sign Language Translator</h1>
+    <h1>GestureLink</h1>
     <nav>
       <button id="dark-mode-toggle" aria-pressed="false" aria-label="Toggle dark mode" title="Toggle dark mode">
         <span class="material-icons">dark_mode</span> Dark Mode
